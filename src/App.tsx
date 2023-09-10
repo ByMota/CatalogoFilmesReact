@@ -1,11 +1,13 @@
+import Header from './components/header'
+import Footer from './components/footer'
+
 function App() {
-
-
   return (
     <>
-    <h1>teste</h1>
+    <Header/>
+    <h1>oi</h1>
+    <Footer/>
     </>
   )
 }
-
 export default App
